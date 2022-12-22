@@ -16,7 +16,7 @@ python start.py -m tests.test_agent.py
 A description of a Wumpus World, taken from Russell and Norvig's text more or less verbatim, is given below. I have used ***emphasis*** to mark important points on how my implementation may vary from the official description.
 
 
-![Wumpus World Illustration](img/WumpusWorld.png)
+![Wumpus World Illustration](https://media.cheggcdn.com/media/681/681ab9b3-2de9-4f12-a665-897dfbaf3d04/phpVIxXuH.png)
 
 ### Informal Description
 * A Wumpus World is a cave consisting of rooms connected by passageways.
