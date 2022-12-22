@@ -1,8 +1,8 @@
 # 1DL010-Wumpus-Python
 
-This project is an attempt to design an agent that can logically navigate the Wumpus World environment described by Stuart Russell and Peter Norvig in their conjointly authored text, *Artificial Intelligence: A Modern Approach*. Project is done as a part of 1DL010 Artificial Intelligence course on Uppsala University in Spring 2021-2022. 
+This project is an attempt to design an agent that can logically navigate the Wumpus World environment described by Stuart Russell and Peter Norvig in their conjointly authored text, *Artificial Intelligence: A Modern Approach*. Project is done as a part of 1DL010 Artificial Intelligence course on Uppsala University in Spring 2021-2022.\n
 Group members: 
-Mehdi Inane
+Mehdi Inane \n
 Lucie Huang
 
 # Running the code example =
